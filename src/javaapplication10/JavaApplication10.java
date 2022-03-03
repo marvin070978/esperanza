@@ -25,10 +25,8 @@ public class JavaApplication10 {
                 contador++;
             }
         
-        System.out.println(contador);
-        System.out.println(contador);
-        System.out.println(contador);
-        System.out.println(contador);
+        System.out.println("Contador de veces "+contador);
+        
     }
     
 }
